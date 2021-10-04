@@ -16,7 +16,7 @@ const Course = (props) => {
             </div>
             <div className="text-green-500 flex justify-center mt-2">
                 <Rating readonly initialRating={avgRating} fullSymbol="fas fa-star icon-color" emptySymbol="fa fa-star-o icon-color"
-                />  ({quantity})
+                />  { avgRating} ({quantity})
             </div>
             <h3 className="text-xl font-medium py-2 uppercase ">{title}</h3>
 
