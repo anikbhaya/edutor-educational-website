@@ -1,6 +1,6 @@
 # Edutor web app.
 
-View Live Website Here  [Car Rental Website](https://edutor-anikbhaya.netlify.app/).
+View Live Website Here  [Edutor](https://edutor-anikbhaya.netlify.app/).
 
 ### Framework Used
 * React Js
