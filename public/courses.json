@@ -1,0 +1,132 @@
+[
+    {
+        "title":"Intensive Spoken English Course",
+        "instructor":"Logus Online",
+        "duration": "77 Hours",
+        "price": 155,
+        "thumbnail":"./images/1.jpg",
+        "overview": "English speaking course. 77 Hours of English language speaking, English listening practice. 1000 English language words.",
+        "rating":{
+            "avgRating": "4.4",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"Over 100 Recipes for Building iOS Apps",
+        "instructor":"Mohammad Azam",
+        "duration": "11 Hours",
+        "price": 155,
+        "thumbnail":"./images/3.jpg",
+        "overview": "A problem focused approach for learning SwiftUI to build iOS, macOS, watchOS and tvOS apps.",
+        "rating":{
+            "avgRating": "4.8",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"Hands-On Python & R In Data Science",
+        "instructor":"Kirill Eremenko",
+        "duration": "44 Hours",
+        "price": 155,
+        "thumbnail":"./images/4.jpg",
+        "overview": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+        "rating":{
+            "avgRating": "4.5",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"The Complete iOS App Development Bootcamp",
+        "instructor":"Dr. Angela Yu",
+        "duration": "55 Hours",
+        "price": 155,
+        "thumbnail":"./images/5.jpg",
+        "overview": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "rating":{
+            "avgRating": "4.8",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"Learn Apache Kafka for Beginners v2",
+        "instructor":"Stephane Maarek",
+        "duration": "7.5 Hours",
+        "price": 155,
+        "thumbnail":"./images/6.jpg",
+        "overview": "Learn Apache Kafka 2.0 Ecosystem, Core Concepts, Real World Java Producers/Consumers & Big Data Architecture.",
+        "rating":{
+            "avgRating": "4.7",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"The Complete 2021 Software Testing Bootcamp",
+        "instructor":"Nezam Academy",
+        "duration": "27 Hours",
+        "price": 155,
+        "thumbnail":"./images/7.jpg",
+        "overview": "Everything you need to learn about software testing.",
+        "rating":{
+            "avgRating": "4.6",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"Competitive Programming",
+        "instructor":"Blanca Huergo",
+        "duration": "11.5 Hours",
+        "price": 155,
+        "thumbnail":"./images/8.jpg",
+        "overview": "Master the Theory and Application of Algorithms and Data Structures to Excel in Programming Contests.",
+        "rating":{
+            "avgRating": "4.5",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"CI/CD(Continuous Integration/Delivery for Beginners",
+        "instructor":"John Honai",
+        "duration": "2 Hours",
+        "price": 155,
+        "thumbnail":"./images/9.jpg",
+        "overview": "Learn about CI CD & DevOps & the concepts of Continuous Integration, Continuous Delivery / Deployment, DevOps & pipeline.",
+        "rating":{
+            "avgRating": "4.6",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"The Bubble Beginners Bootcamp (2019) - Visual Programming",
+        "instructor":"Gregory John",
+        "duration": "10.5 Hours",
+        "price": 155,
+        "thumbnail":"./images/10.jpg",
+        "overview": "The only course you need to get up and running with Bubble visual programming as quickly as possible.",
+        "rating":{
+            "avgRating": "4.7",
+            "quantity": 342
+        }
+
+    },
+    {
+        "title":"Business English Course for ESL Students",
+        "instructor":"Shayna Oliveira",
+        "duration": "5.5 Hours",
+        "price": 155,
+        "thumbnail":"./images/2.jpg",
+        "overview": "Learn essential Business English vocabulary for presentations, meetings, negotiations, phone calls, e-mails, and more!",
+        "rating":{
+            "avgRating": "4.5",
+            "quantity": 342
+        }
+
+    }
+]
