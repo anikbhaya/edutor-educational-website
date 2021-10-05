@@ -5,7 +5,7 @@ const Contact = () => {
     return (
         <div className="flex flex-col items-center max-w-7xl mx-auto px-2 sm:px-6 lg:px-8 py-10">
             <h2 className="text-3xl font-medium mb-14">We Have a   <span className="text-green-500">Professional</span> Support Team</h2>
-            <div className="grid grid-cols-2 gap-10">
+            <div className="grid lg:grid-cols-2 gap-10">
                 <div className="flex items-center">
                     <div>
                         <i className="fas fa-headset text-7xl text-green-500 p-5"></i>
@@ -18,7 +18,7 @@ const Contact = () => {
                 </div>
                 <div className="flex items-center">
                     <div>
-                    <i class="fas fa-envelope-open-text text-7xl text-green-500 p-5"></i>
+                    <i className="fas fa-envelope-open-text text-7xl text-green-500 p-5"></i>
                     </div>
                     <div>
                         <h3 className="text-3xl">Have Any Questions</h3>

@@ -9,7 +9,7 @@ const Course = (props) => {
         <div className="bg-white p-4">
             <div className="flex justify-between bg-green-500 py-1 px-3 text-white">
                 <p><i className="fas fa-clock"></i> {duration}</p>
-                <p><i class="fas fa-user-graduate"></i> {instructor}</p>
+                <p><i className="fas fa-user-graduate"></i> {instructor}</p>
             </div>
             <div>
                 <img width="100%" src={thumbnail} alt="" />
