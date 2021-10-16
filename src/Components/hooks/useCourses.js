@@ -4,7 +4,7 @@ const useCourses = () => {
     const [courses, setCourses] = useState([])
  
     useEffect( () => {
-        fetch('http://localhost:3000/courses.json')
+        fetch('/courses.json')
         .then(response => response.json())
         .then(data => setCourses(data))
     },[])
